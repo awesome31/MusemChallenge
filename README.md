@@ -5,6 +5,7 @@ This is a react native project created using expo. These steps need to be follow
 
 - `npm install`: This will install all the dependencies.
 - `expo start`: This will launch a metro bundler which can be used to run the application.
+- In `/store/actions.js` Line number **7** add the API key.
 
 ## Folder Structure and Tech Stack
 
